@@ -1,0 +1,12 @@
+# Generated artifacts
+tmp/
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# Project outputs — produced on every run, not source of truth
+codex_usage_data.csv
+codex_usage_statistics.png
+errors.txt
+.idea/
